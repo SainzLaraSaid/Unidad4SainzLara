@@ -1,0 +1,5 @@
+SainzLaraSaid/Unidad4SainzLara
+
+git config --global user.name "Said Sainz Lara"
+
+git config --global user.email "a25311056@uthermosillo.edu.mx"
